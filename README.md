@@ -49,7 +49,6 @@ Copy the following exploit code
 # Author : Ravindu Wickramasinghe (aka rvz)
 # Usage  : usage: ./exploit.sh
 
-#!/bin/bash
 set -e
 D="/tmp/.x"; M="x.py"; P="p.yml"; N="x"
 
