@@ -2,7 +2,7 @@
 
 <br><br>
 <div align="center">
-  <img width="200" src="https://www.blacklanternsecurity.com/bbot/Stable/bbot.png" alt="bbot-logo"> <br><br>
+  <img width="150" src="https://www.blacklanternsecurity.com/bbot/Stable/bbot.png" alt="bbot-logo"> <br><br>
   <p>BBOT v2.1.0<br>
   <b>Local Privilege Escalation to Root</b> <br>
   PoC Exploit<br>
